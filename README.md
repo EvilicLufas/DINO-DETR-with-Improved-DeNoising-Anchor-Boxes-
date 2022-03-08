@@ -28,7 +28,7 @@ Our model is based on [DAB-DETR](https://arxiv.org/abs/2201.12329) and [DN-DETR]
 <p>
 <font size=3><b>DN-DETR: Accelerate DETR Training by Introducing Query DeNoising.</b></font>
 <br>
-<font size=2>Feng Li*, Hao Zhang*, <b>Shilong Liu</b>, Jian Guo, Lionel M. Ni, Lei Zhang.</font>
+<font size=2>Feng Li*, Hao Zhang*, Shilong Liu, Jian Guo, Lionel M. Ni, Lei Zhang.</font>
 <br>
 <font size=2>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>) 2022.</font>
 <br>
@@ -38,7 +38,7 @@ Our model is based on [DAB-DETR](https://arxiv.org/abs/2201.12329) and [DN-DETR]
 <p>
 <font size=3><b>DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR.</b></font>
 <br>
-<font size=2><b>Shilong Liu</b>, Feng Li, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang.</font>
+<font size=2>Shilong Liu, Feng Li, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang.</font>
 <br>
 <font size=2>International Conference on Learning Representations (<b>ICLR</b>) 2022.</font>
 <br>

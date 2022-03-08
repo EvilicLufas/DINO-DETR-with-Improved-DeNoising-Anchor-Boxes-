@@ -23,6 +23,27 @@ We present DINO (\textbf{D}ETR with \textbf{I}mproved de\textbf{N}oising anch\te
 # Methods
 ![method](model.png "model arch")
 
+# Links
+Our model is based on [DAB-DETR](https://arxiv.org/abs/2201.12329) and [DN-DETR](https://arxiv.org/abs/2203.01305).
+<p>
+<font size=3><b>DN-DETR: Accelerate DETR Training by Introducing Query DeNoising.</b></font>
+<br>
+<font size=2>Feng Li*, Hao Zhang*, <b>Shilong Liu</b>, Jian Guo, Lionel M. Ni, Lei Zhang.</font>
+<br>
+<font size=2>IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>) 2022.</font>
+<br>
+<a href='https://arxiv.org/abs/2203.01305'>[paper]</a> <a href='https://github.com/FengLi-ust/DN-DETR'>[code]</a>    
+</p>
+
+<p>
+<font size=3><b>DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR.</b></font>
+<br>
+<font size=2><b>Shilong Liu</b>, Feng Li, Hao Zhang, Xiao Yang, Xianbiao Qi, Hang Su, Jun Zhu, Lei Zhang.</font>
+<br>
+<font size=2>International Conference on Learning Representations (<b>ICLR</b>) 2022.</font>
+<br>
+<a href='https://arxiv.org/abs/2201.12329'>[paper]</a> <a href='https://github.com/SlongLiu/DAB-DETR'>[code]</a>    
+</p>
 
 
 # bibtex

@@ -21,7 +21,7 @@ We present DINO (\textbf{D}ETR with \textbf{I}mproved de\textbf{N}oising anch\te
 ![curve table](figs/curve.png "optional title")
 
 # Methods
-![method](model.png "model arch")
+![method](figs/model.png "model arch")
 
 # Links
 Our model is based on [DAB-DETR](https://arxiv.org/abs/2201.12329) and [DN-DETR](https://arxiv.org/abs/2203.01305).
